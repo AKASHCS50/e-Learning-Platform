@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AKASHCS50/e-Learning-Platform">
-    <img src="https://github.com/AKASHCS50/e-Learning-Platform/blob/main/img.png" alt="Logo" width="80" height="95">
+    <img src="https://github.com/AKASHCS50/e-Learning-Platform/blob/main/img.jpg" alt="Logo" width="80" height="95">
  </a>
   
   <h1 align="center">e-Learning Platform</h1>

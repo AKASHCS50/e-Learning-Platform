@@ -49,7 +49,7 @@ It is a completely responsive website build incorporating mobile-first approach.
 Following technologies are used in the project.
 * Django
 * Crispy-Forms
-* Bootstarp 4
+* Bootstrap 4
 * Postgresql
 
 
